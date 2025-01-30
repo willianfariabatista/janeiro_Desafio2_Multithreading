@@ -28,7 +28,7 @@ go build -o buscaCEP main.go
 
 ### Uso
 
-###Execute o binário gerado para iniciar a aplicação. Por padrão, o CEP utilizado é 06341650, mas você pode alterar o valor diretamente no código ou adaptar para receber como argumento.
+###Execute o binário gerado para iniciar a aplicação. Por padrão, o CEP utilizado é 06341655, mas você pode alterar o valor diretamente no código ou adaptar para receber como argumento.
 
 ./buscaCEP
 
